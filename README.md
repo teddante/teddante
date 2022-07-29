@@ -1,6 +1,6 @@
 ### Hi there, welcome to my Github, have a browse, have a gander 👋
 
-I have spent the past 13 years of my life being hugely invested in creating software relating to interactive simulation and was always gripped by vehicle simulation software and tinkering around with massive amounts of data to interpret interesting observations out of a mess. These years pushed me towards a hopeful future in software engineering. It's all very exciting stuff!
+I have spent the past 13 years of my life being hugely invested in creating software relating to interactive simulation and was always gripped by vehicle simulation software and tinkering around with massive amounts of data to interpret interesting observations out of a mess. Hopefullly leading towards a future in software engineering. It's all very exciting stuff!
 
 <!--
 **teddante/teddante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile obvs!
